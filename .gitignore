@@ -1,0 +1,22 @@
+# Node & Python common
+node_modules/
+.env
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+logs/
+*.log
+tmp/
+*.tmp
+
+# Build and editor
+dist/
+.vscode/
+.idea/
+
+*.sh

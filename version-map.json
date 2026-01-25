@@ -4,5 +4,11 @@
         "terms-and-conditions": "v1.0.0",
         "cookie-policy": "v1.0.0",
         "disclaimer": "v1.0.0"
+    },
+    "website": {
+        "privacy-policy": "v1.0.0",
+        "terms-and-conditions": "v1.0.0",
+        "cookie-policy": "v1.0.0",
+        "disclaimer": "v1.0.0"
     }
 }

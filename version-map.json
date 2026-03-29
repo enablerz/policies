@@ -5,10 +5,16 @@
         "cookie-policy": "v1.0.0",
         "disclaimer": "v1.0.0"
     },
-    "website": {
+    "ena": {
         "privacy-policy": "v1.0.0",
         "terms-and-conditions": "v1.0.0",
         "cookie-policy": "v1.0.0",
         "disclaimer": "v1.0.0"
+    },
+    "website": {
+        "privacy-policy": "v1.1.0",
+        "terms-and-conditions": "v1.1.0",
+        "cookie-policy": "v1.1.0",
+        "disclaimer": "v1.1.0"
     }
 }
